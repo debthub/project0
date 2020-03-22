@@ -1,0 +1,39 @@
+
+
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+ol {
+    color: lightpink;
+    font-weight: bold;
+    background-color: darkcyan;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+    text-align: center;
+}
+
+td {
+    color: rgb(31, 31, 25);
+    text-align: center;
+}
+
+h1 {
+    color: lightslategrey;
+}
+
+#idade {
+    background-color: yellow;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
